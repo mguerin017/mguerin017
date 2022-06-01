@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mark Guerin
-- 👀 I’m interested in video game development, nuclear energy, and environmental preservation
+- 👀 I’m interested in video game development, virtual reality, nuclear energy, and environmental preservation
 - 🌱 I’m currently learning Unreal Engine modding
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ... email me at mguerin017@gmail.com
